@@ -1,0 +1,4 @@
+vosk
+pygame
+coqui-tts
+gpiozero
